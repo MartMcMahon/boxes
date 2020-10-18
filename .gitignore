@@ -1,0 +1,10 @@
+# venv
+__pycache__
+pyvenv.cfg
+bin
+lib
+share
+scans
+
+*.json
+.DS_Store
