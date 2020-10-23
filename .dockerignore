@@ -1,6 +1,15 @@
+# python
 bin
 include
 lib
 share
+__pychache__
+pyvenv.cfg
 
+# meta
+Dockerfile
+.dockerignore
+.git*
+
+# misc
 .DS_Store

@@ -8,4 +8,4 @@ RUN ln -s /usr/bin/pip3 /usr/bin/pip
 RUN export DEBIAN_FRONTEND=noninteractive && apt install -y postgresql
 COPY ./ /app
 WORKDIR /app
-CMD python3 setup.py
+# CMD python3 setup.py
